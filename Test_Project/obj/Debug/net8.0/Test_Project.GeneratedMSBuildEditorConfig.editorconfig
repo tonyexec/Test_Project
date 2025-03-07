@@ -20,12 +20,20 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/Dev.DESKTOP-1J79V82/source/repos/Test_Project/Test_Project/Views/Home/DisplayValue.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaXNwbGF5VmFsdWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Dev.DESKTOP-1J79V82/source/repos/Test_Project/Test_Project/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Dev.DESKTOP-1J79V82/source/repos/Test_Project/Test_Project/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dev.DESKTOP-1J79V82/source/repos/Test_Project/Test_Project/Views/Home/SubmitForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdWJtaXRGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Dev.DESKTOP-1J79V82/source/repos/Test_Project/Test_Project/Views/Shared/Error.cshtml]
