@@ -12,7 +12,21 @@ namespace Test_Project.Controllers
         {
             _logger = logger;
         }
-
+        [HttpGet]
+        public IActionResult SubMitForm()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult SubMitForm(string InputValue)
+        {
+            return RedirectToAction("DisplayValue", new { value = InputValue});
+        }
+        public IActionResult DisplayValue(string value)
+        {
+            ViewData["UserInput"] = value;
+            return View();
+        }
         public IActionResult Index()
         {
             return View();
